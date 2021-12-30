@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">I-Care</string>
+    <string name="text">Categories</string>
+    <string name="face">face mask</string>
+    <string name="body">body masks</string>
+    <string name="hair">hair mask</string>
+    <string name="hand">hand mask</string>
+    <string name="expand_all">Expand All</string>
+    <string name="coffeescrub">coffee scrub</string>
+    <string name="facemaks">face masks</string>
+    <string name="bananamask">Banana mask</string>
+    <string name="avocadomask">avocado mask</string>
+    <string name="cucumbermask">cucumber mask</string>
+    <string name="lemonmask">Lemon Mask</string>
+    <string name="dryhair">mask for dry hair</string>
+    <string name="damagedhair">mask for damaged hair</string>
+    <string name="chinehair">Shine and hydration</string>
+    <string name="hairmoisture">A moisture boost</string>
+    <string name="moisturisingbody">MOISTURIZING FULL BODY MASK</string>
+    <string name="growingskin">Body Scrub For Glowing Skin</string>
+    <string name="lemonscrub">Lemon And Sugar Body Scrub</string>
+    <string name="potatohandmask">Potato Hand Mask For Skin Whitening</string>
+</resources>

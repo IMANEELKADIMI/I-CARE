@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.i_care">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="I-Care"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ICare">
+        <activity android:name=".PlayMusicActivity"></activity>
+        <activity android:name=".ModifActivity" />
+        <activity android:name=".NoteMainActivity" />
+        <activity android:name=".DetailsActivity" />
+        <activity android:name=".AjoutActivity" />
+        <activity android:name=".PlayVideosActivity"/>
+        <activity android:name=".MaskActivity" />
+        <activity android:name=".HairMaskActivity" />
+        <activity android:name=".FaceMaskActivity" />
+        <activity android:name=".BodyMaskActivity" />
+        <activity android:name=".HandMaskActivity" />
+        <activity android:name=".HomeActivity" />
+        <activity android:name=".SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
